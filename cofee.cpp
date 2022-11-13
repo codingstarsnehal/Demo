@@ -7,11 +7,11 @@ int main()
     cout<<"enter choice";
     cin>>ch;
 
-    if(ch=1)
+    if(ch==1)
     {
         cout<<"enjoy your cofee"<<endl;
     }
-    else if(ch=2){
+    else if(ch==2){
         cout<<"enjoy your tea";
         cout<<endl;
     }
