@@ -32,7 +32,7 @@ int main()
 }
 
 
-Linear search using functions
+***************Linear search using functions*****************
 
 #include<iostream>
 using namespace std;
